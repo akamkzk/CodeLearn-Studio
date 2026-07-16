@@ -117,7 +117,7 @@ npm run build
 # 构建桌面应用安装包
 npm run tauri build
 ```
-
+或者通过安装包直接安装
 ### 重要说明
 
 - `npm run dev` 仅在浏览器中运行前端开发服务器
